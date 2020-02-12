@@ -163,11 +163,31 @@
     background-color: aliceblue;
 }
 /*/////////////// SUBCONTENT ///////////////////*/
+/*/////////////// FOOTER ///////////////////*/
 
 .Footer {
     height: 48px;
+    width: 100%;
     background-color: yellow;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+
+.ExtraInfo {
+    height: 36px;
+    width: 140px;
+    background-color: darkslategray;
+}
+
+.NextBTN {
+    height: 24px;
+    width: 24px;
+    background-color: purple;
+}
+/*/////////////// FOOTER ///////////////////*/
+
 
 .Separator {
     height: 20px;

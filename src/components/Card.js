@@ -4,9 +4,9 @@ import './Card.css';
 
 export const Card = () =>
 	<>
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Create the card's Skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 		<div className='Card'>
 		</div>
@@ -51,13 +51,13 @@ export const Card = () =>
 			<div className='Footer'></div>
 		</div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Commit progress on card's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Create the header's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 		<div className='Header'></div>
 
@@ -91,13 +91,13 @@ export const Card = () =>
 			<div className='Logo'></div>
 		</div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Commit progress on header's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Create subheader's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 		<div className='SubHeaderContainer'></div>
 
@@ -108,24 +108,24 @@ export const Card = () =>
 			<div className='Link'></div>
 		</div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Commit progress on subheader's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Create content's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 		<div className='ContentContainer'></div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 		<div className='ContentContainer'>
 			<div className='Image'></div>
 			<div className='ContentInfoContainer'></div>
 		</div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 		<div className='ContentContainer'>
 			<div className='Image'></div>
@@ -136,24 +136,24 @@ export const Card = () =>
 			</div>
 		</div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Commit progress on content's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Create subcontnet's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 		<div className='SubContentContainer'></div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 		<div className='SubContentContainer'>
 			<div className='MetadataContainer'></div>
 			<div className='InfoIcon'></div>
 		</div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 
 
 		<div className='SubContentContainer'>
@@ -164,9 +164,27 @@ export const Card = () =>
 			<div className='InfoIcon'></div>
 		</div>
 
-		<div className='Separator'></div>
+		<div className='Separator'/>
 		Commit progress on subcontent's skeleton
-		<div className='Separator'></div>
+		<div className='Separator'/>
+
+		<div className='Separator'/>
+		Create footer's skeleton
+		<div className='Separator'/>
+
+		<div className='Footer'></div>
+
+		<div className='Separator'/>
+
+		<div className='Footer'>
+			<div className='ExtraInfo'></div>
+			<div className='NextBTN'></div>
+		</div>
+
+		<div className='Separator'/>
+		Commit progress on footer's skeleton
+		<div className='Separator'/>
+
 
 
 	</>;
