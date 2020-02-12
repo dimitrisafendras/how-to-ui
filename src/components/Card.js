@@ -79,6 +79,13 @@ export const Card = () =>
 
 		Commit Progress
 
+		<div className='SubHeaderContainer'>
+			<div className='Text'></div>
+			<div className='Link'></div>
+		</div>
+
+		Commit Progress
+
 	</>;
 
 

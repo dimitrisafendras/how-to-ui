@@ -23,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XhlSQHQx8ZNHvSm086ujAkV3ms" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -43,6 +46,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Enell\IdeaProjects\how-to-ui\src\design" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -69,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581506208110</updated>
-      <workItem from="1581506214136" duration="3662000" />
+      <workItem from="1581506214136" duration="5561000" />
     </task>
     <task id="LOCAL-00001" summary="basic card structure">
       <created>1581507601499</created>
@@ -78,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581507601499</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="header skeleton done">
+      <created>1581509913181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581509913181</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add design card">
+      <created>1581510009932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581510009932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,13 +108,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic card structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic card structure" />
+    <MESSAGE value="header skeleton done" />
+    <MESSAGE value="add design card" />
+    <option name="LAST_COMMIT_MESSAGE" value="add design card" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-3575" y="-299" key="CommitChangelistDialog2" timestamp="1581509912662">
+    <state x="-3575" y="-299" key="CommitChangelistDialog2" timestamp="1581510009381">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
-    <state x="-3575" y="-299" key="CommitChangelistDialog2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581509912662" />
+    <state x="-3575" y="-299" key="CommitChangelistDialog2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581510009381" />
     <state x="-3398" y="-61" width="419" height="244" key="Github.ShareDialog" timestamp="1581509931205">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
@@ -117,10 +141,14 @@
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
     <state x="-3690" y="-295" key="SettingsEditor/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581507179021" />
-    <state x="-3606" y="-216" key="Vcs.Push.Dialog.v2" timestamp="1581509918181">
+    <state x="-3606" y="-216" key="Vcs.Push.Dialog.v2" timestamp="1581510013068">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
-    <state x="-3606" y="-216" key="Vcs.Push.Dialog.v2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581509918181" />
+    <state x="-3606" y="-216" key="Vcs.Push.Dialog.v2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581510013068" />
+    <state x="-3389" y="-21" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581512126346">
+      <screen x="-3840" y="-299" width="1280" height="720" />
+    </state>
+    <state x="-3389" y="-21" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581512126346" />
     <state x="-3537" y="-258" width="672" height="678" key="search.everywhere.popup" timestamp="1581509754022">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>

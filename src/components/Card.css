@@ -58,10 +58,27 @@
     background-color: greenyellow;
 }
 /*/////////////// HEADER ///////////////////*/
-.SubHeader {
-    height: 80px;
+/*/////////////// SUBHEADER ///////////////////*/
+.SubHeaderContainer {
+    min-height: 80px;
+    width: 100%;
     background-color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
 }
+.Text {
+    height: 40px;
+    width: 100%;
+    background-color: orange;
+}
+.Link {
+    height: 50px;
+    width: 100%;
+    background-color: purple;
+}
+/*/////////////// SUBHEADER ///////////////////*/
 
 .Content {
     height: 250px;
