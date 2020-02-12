@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06dd6b36-03b1-465f-88d2-d445a00d3fc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,14 +68,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581506208110</updated>
-      <workItem from="1581506214136" duration="1345000" />
+      <workItem from="1581506214136" duration="3662000" />
     </task>
+    <task id="LOCAL-00001" summary="basic card structure">
+      <created>1581507601499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581507601499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic card structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic card structure" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-3575" y="-299" key="CommitChangelistDialog2" timestamp="1581507600961">
+      <screen x="-3840" y="-299" width="1280" height="720" />
+    </state>
+    <state x="-3575" y="-299" key="CommitChangelistDialog2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581507600961" />
     <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1581506360946">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
@@ -101,5 +112,9 @@
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
     <state x="-3690" y="-295" key="SettingsEditor/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581507179021" />
+    <state x="-3537" y="-258" width="672" height="678" key="search.everywhere.popup" timestamp="1581509754022">
+      <screen x="-3840" y="-299" width="1280" height="720" />
+    </state>
+    <state x="-3537" y="-258" width="672" height="678" key="search.everywhere.popup/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581509754022" />
   </component>
 </project>

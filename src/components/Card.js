@@ -7,20 +7,28 @@ export const Card = () =>
 		<div className='Card'>
 		</div>
 
+		<div className='Separator'/>
+
 		<div className='Card'>
 			<div className='Header'></div>
 		</div>
+
+		<div className='Separator'/>
 
 		<div className='Card'>
 			<div className='Header'></div>
 			<div className='SubHeader'></div>
 		</div>
+
+		<div className='Separator'/>
 
 		<div className='Card'>
 			<div className='Header'></div>
 			<div className='SubHeader'></div>
 			<div className='Content'></div>
 		</div>
+
+		<div className='Separator'/>
 
 		<div className='Card'>
 			<div className='Header'></div>
@@ -28,6 +36,8 @@ export const Card = () =>
 			<div className='Content'></div>
 			<div className='SubContent'></div>
 		</div>
+
+		<div className='Separator'/>
 
 		<div className='Card'>
 			<div className='Header'></div>
@@ -36,6 +46,38 @@ export const Card = () =>
 			<div className='SubContent'></div>
 			<div className='Footer'></div>
 		</div>
+
+		Commit Progress
+
+		<div className='Header'>
+			<div className='AccountInfoContainer'></div>
+			<div className='Logo'></div>
+		</div>
+
+		<div className='Separator'/>
+
+		<div className='Header'>
+			<div className='AccountInfoContainer'>
+				<div className='Icon'></div>
+				<div className='InfoContainer'></div>
+			</div>
+			<div className='Logo'></div>
+		</div>
+
+		<div className='Separator'/>
+
+		<div className='Header'>
+			<div className='AccountInfoContainer'>
+				<div className='Icon'></div>
+				<div className='InfoContainer'>
+					<div className='UserName'></div>
+					<div className='AtUserName'></div>
+				</div>
+			</div>
+			<div className='Logo'></div>
+		</div>
+
+		Commit Progress
 
 	</>;
 
