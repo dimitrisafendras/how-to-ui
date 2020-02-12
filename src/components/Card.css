@@ -1,0 +1,37 @@
+.Card {
+    margin: 20px 0;
+    height: 100%;
+    min-height: 300px;
+    max-height: 600px;
+    width: 100%;
+    max-width: 500px;
+    background-color: orange;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.Header {
+    height: 60px;
+    background-color: blue;
+}
+
+.SubHeader {
+    height: 80px;
+    background-color: green;
+}
+
+.Content {
+    height: 250px;
+    background-color: red;
+}
+
+.SubContent {
+    height: 48px;
+    background-color: purple;
+}
+
+.Footer {
+    height: 48px;
+    background-color: yellow;
+}
