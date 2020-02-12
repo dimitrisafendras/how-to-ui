@@ -12,6 +12,7 @@
 /*/////////////// HEADER ///////////////////*/
 .Header {
     height: 60px;
+    min-height: 60px;
     width: 100%;
     background-color: blue;
 
@@ -81,15 +82,46 @@
 /*/////////////// SUBHEADER ///////////////////*/
 /*/////////////// CONTENT ///////////////////*/
 
-.Content {
-    height: 250px;
+.ContentContainer {
+    min-height: 150px;
     width: 100%;
     background-color: red;
+
+    display: flex;
+    flex-direction: column;
 }
 
+.Image {
+    height: 150px;
+    background-color: aqua;
+}
+
+.ContentInfoContainer {
+    height: 100%;
+    min-height: 30px;
+    background-color: magenta;
+}
+
+.ContentHeader {
+    height: 100%;
+    min-height: 30px;
+    background-color: darkslategray;
+}
+
+.ContentText {
+    height: 100%;
+    min-height: 30px;
+    background-color: orange;
+}
+
+.ContentLink {
+    height: 100%;
+    min-height: 30px;
+    background-color: palegreen;
+}
 /*/////////////// CONTENT ///////////////////*/
 
-.SubContent {
+.SubContentContainer {
     height: 48px;
     background-color: purple;
 }

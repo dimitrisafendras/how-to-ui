@@ -25,7 +25,7 @@ export const Card = () =>
 		<div className='Card'>
 			<div className='Header'></div>
 			<div className='SubHeaderContainer'></div>
-			<div className='Content'></div>
+			<div className='ContentContainer'></div>
 		</div>
 
 		<div className='Separator'/>
@@ -33,8 +33,8 @@ export const Card = () =>
 		<div className='Card'>
 			<div className='Header'></div>
 			<div className='SubHeaderContainer'></div>
-			<div className='Content'></div>
-			<div className='SubContent'></div>
+			<div className='ContentContainer'></div>
+			<div className='SubContentContainer'></div>
 		</div>
 
 		<div className='Separator'/>
@@ -42,8 +42,8 @@ export const Card = () =>
 		<div className='Card'>
 			<div className='Header'></div>
 			<div className='SubHeaderContainer'></div>
-			<div className='Content'></div>
-			<div className='SubContent'></div>
+			<div className='ContentContainer'></div>
+			<div className='SubContentContainer'></div>
 			<div className='Footer'></div>
 		</div>
 
@@ -95,7 +95,29 @@ export const Card = () =>
 
 		Commit progress on subheader's skeleton
 
-		<div className='Content'></div>
+		<div className='ContentContainer'></div>
+
+		<div className='Separator'></div>
+
+		<div className='ContentContainer'>
+			<div className='Image'></div>
+			<div className='ContentInfoContainer'></div>
+		</div>
+
+		<div className='Separator'></div>
+
+		<div className='ContentContainer'>
+			<div className='Image'></div>
+			<div className='ContentInfoContainer'>
+				<div className='ContentHeader'></div>
+				<div className='ContentText'></div>
+				<div className='ContentLink'></div>
+			</div>
+		</div>
+
+		Commit progress on content's skeleton
+
+
 
 	</>;
 
