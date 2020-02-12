@@ -35,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/design" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,10 +89,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="basic card structure" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-3575" y="-299" key="CommitChangelistDialog2" timestamp="1581507600961">
+    <state x="-3575" y="-299" key="CommitChangelistDialog2" timestamp="1581509912662">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
-    <state x="-3575" y="-299" key="CommitChangelistDialog2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581507600961" />
+    <state x="-3575" y="-299" key="CommitChangelistDialog2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581509912662" />
+    <state x="-3398" y="-61" width="419" height="244" key="Github.ShareDialog" timestamp="1581509931205">
+      <screen x="-3840" y="-299" width="1280" height="720" />
+    </state>
+    <state x="-3398" y="-61" width="419" height="244" key="Github.ShareDialog/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581509931205" />
     <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1581506360946">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
@@ -112,6 +117,10 @@
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
     <state x="-3690" y="-295" key="SettingsEditor/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581507179021" />
+    <state x="-3606" y="-216" key="Vcs.Push.Dialog.v2" timestamp="1581509918181">
+      <screen x="-3840" y="-299" width="1280" height="720" />
+    </state>
+    <state x="-3606" y="-216" key="Vcs.Push.Dialog.v2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581509918181" />
     <state x="-3537" y="-258" width="672" height="678" key="search.everywhere.popup" timestamp="1581509754022">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
