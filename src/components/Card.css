@@ -120,11 +120,49 @@
     background-color: palegreen;
 }
 /*/////////////// CONTENT ///////////////////*/
+/*/////////////// SUBCONTENT ///////////////////*/
 
 .SubContentContainer {
-    height: 48px;
+    width: 100%;
+    min-height: 60px;
     background-color: purple;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
+
+.MetadataContainer {
+    height: 48px;
+    min-width: 100px;
+    max-width: 300px;
+    width: 100%;
+    background-color: palegreen;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.Likes {
+    height: 40px;
+    width: 70px;
+    background-color: orange;
+}
+
+.Date {
+    height:30px;
+    width: 120px;
+    background-color: blue;
+    margin-left: 15px;
+}
+
+.InfoIcon {
+    height: 24px;
+    width: 24px;
+    background-color: aliceblue;
+}
+/*/////////////// SUBCONTENT ///////////////////*/
 
 .Footer {
     height: 48px;

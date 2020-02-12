@@ -117,7 +117,28 @@ export const Card = () =>
 
 		Commit progress on content's skeleton
 
+		<div className='SubContentContainer'></div>
 
+		<div className='Separator'></div>
+
+		<div className='SubContentContainer'>
+			<div className='MetadataContainer'></div>
+			<div className='InfoIcon'></div>
+		</div>
+
+		<div className='Separator'></div>
+
+		<div className='SubContentContainer'>
+			<div className='MetadataContainer'>
+				<div className='Likes'></div>
+				<div className='Date'></div>
+			</div>
+			<div className='InfoIcon'></div>
+		</div>
+
+		<div className='Separator'></div>
+
+		Commit progress on subcontent's skeleton
 
 	</>;
 
