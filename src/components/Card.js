@@ -47,7 +47,11 @@ export const Card = () =>
 			<div className='Footer'></div>
 		</div>
 
-		Commit Progress
+		Commit progress on card's skeleton
+
+		<div className='Header'></div>
+
+		<div className='Separator'/>
 
 		<div className='Header'>
 			<div className='AccountInfoContainer'></div>
@@ -77,14 +81,21 @@ export const Card = () =>
 			<div className='Logo'></div>
 		</div>
 
-		Commit Progress
+		Commit progress on header's skeleton
+
+		<div className='SubHeaderContainer'></div>
+
+		<div className='Separator'/>
+
 
 		<div className='SubHeaderContainer'>
 			<div className='Text'></div>
 			<div className='Link'></div>
 		</div>
 
-		Commit Progress
+		Commit progress on subheader's skeleton
+
+		<div className='Content'></div>
 
 	</>;
 
