@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06dd6b36-03b1-465f-88d2-d445a00d3fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581506208110</updated>
-      <workItem from="1581506214136" duration="5561000" />
+      <workItem from="1581506214136" duration="5709000" />
     </task>
     <task id="LOCAL-00001" summary="basic card structure">
       <created>1581507601499</created>
@@ -100,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581510009932</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="subheader skeleton done">
+      <created>1581512230338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581512230338</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,13 +115,14 @@
     <MESSAGE value="basic card structure" />
     <MESSAGE value="header skeleton done" />
     <MESSAGE value="add design card" />
-    <option name="LAST_COMMIT_MESSAGE" value="add design card" />
+    <MESSAGE value="subheader skeleton done" />
+    <option name="LAST_COMMIT_MESSAGE" value="subheader skeleton done" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-3575" y="-299" key="CommitChangelistDialog2" timestamp="1581510009381">
+    <state x="-3575" y="-299" key="CommitChangelistDialog2" timestamp="1581512229802">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>
-    <state x="-3575" y="-299" key="CommitChangelistDialog2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581510009381" />
+    <state x="-3575" y="-299" key="CommitChangelistDialog2/-3840.-299.1280.720/0.0.2048.1152@-3840.-299.1280.720" timestamp="1581512229802" />
     <state x="-3398" y="-61" width="419" height="244" key="Github.ShareDialog" timestamp="1581509931205">
       <screen x="-3840" y="-299" width="1280" height="720" />
     </state>

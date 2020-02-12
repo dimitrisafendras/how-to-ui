@@ -17,14 +17,14 @@ export const Card = () =>
 
 		<div className='Card'>
 			<div className='Header'></div>
-			<div className='SubHeader'></div>
+			<div className='SubHeaderContainer'></div>
 		</div>
 
 		<div className='Separator'/>
 
 		<div className='Card'>
 			<div className='Header'></div>
-			<div className='SubHeader'></div>
+			<div className='SubHeaderContainer'></div>
 			<div className='Content'></div>
 		</div>
 
@@ -32,7 +32,7 @@ export const Card = () =>
 
 		<div className='Card'>
 			<div className='Header'></div>
-			<div className='SubHeader'></div>
+			<div className='SubHeaderContainer'></div>
 			<div className='Content'></div>
 			<div className='SubContent'></div>
 		</div>
@@ -41,7 +41,7 @@ export const Card = () =>
 
 		<div className='Card'>
 			<div className='Header'></div>
-			<div className='SubHeader'></div>
+			<div className='SubHeaderContainer'></div>
 			<div className='Content'></div>
 			<div className='SubContent'></div>
 			<div className='Footer'></div>
