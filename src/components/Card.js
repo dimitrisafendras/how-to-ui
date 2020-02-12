@@ -4,6 +4,10 @@ import './Card.css';
 
 export const Card = () =>
 	<>
+		<div className='Separator'></div>
+		Create the card's Skeleton
+		<div className='Separator'></div>
+
 		<div className='Card'>
 		</div>
 
@@ -47,7 +51,13 @@ export const Card = () =>
 			<div className='Footer'></div>
 		</div>
 
+		<div className='Separator'></div>
 		Commit progress on card's skeleton
+		<div className='Separator'></div>
+
+		<div className='Separator'></div>
+		Create the header's skeleton
+		<div className='Separator'></div>
 
 		<div className='Header'></div>
 
@@ -81,19 +91,30 @@ export const Card = () =>
 			<div className='Logo'></div>
 		</div>
 
+		<div className='Separator'></div>
 		Commit progress on header's skeleton
+		<div className='Separator'></div>
+
+		<div className='Separator'></div>
+		Create subheader's skeleton
+		<div className='Separator'></div>
 
 		<div className='SubHeaderContainer'></div>
 
 		<div className='Separator'/>
-
 
 		<div className='SubHeaderContainer'>
 			<div className='Text'></div>
 			<div className='Link'></div>
 		</div>
 
+		<div className='Separator'></div>
 		Commit progress on subheader's skeleton
+		<div className='Separator'></div>
+
+		<div className='Separator'></div>
+		Create content's skeleton
+		<div className='Separator'></div>
 
 		<div className='ContentContainer'></div>
 
@@ -115,7 +136,13 @@ export const Card = () =>
 			</div>
 		</div>
 
+		<div className='Separator'></div>
 		Commit progress on content's skeleton
+		<div className='Separator'></div>
+
+		<div className='Separator'></div>
+		Create subcontnet's skeleton
+		<div className='Separator'></div>
 
 		<div className='SubContentContainer'></div>
 
@@ -128,6 +155,7 @@ export const Card = () =>
 
 		<div className='Separator'></div>
 
+
 		<div className='SubContentContainer'>
 			<div className='MetadataContainer'>
 				<div className='Likes'></div>
@@ -137,8 +165,9 @@ export const Card = () =>
 		</div>
 
 		<div className='Separator'></div>
-
 		Commit progress on subcontent's skeleton
+		<div className='Separator'></div>
+
 
 	</>;
 
