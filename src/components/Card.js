@@ -626,7 +626,7 @@ export const Card = () =>
 				</div>
 				<img src={Info} className='InfoIcon2'/>
 			</div>
-			<div className='Footer2'>
+			<div className='Footer2 MarginBottom'>
 				<div className='ExtraInfoContainer'>
 					<img src={Comment} className='ExtraInfoIcon' />
 					<div className='ExtraInfoTxt'>
