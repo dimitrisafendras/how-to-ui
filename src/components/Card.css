@@ -1,7 +1,6 @@
 .Card {
     height: 100%;
     min-height: 300px;
-    max-height: 600px;
     width: 100%;
     max-width: 500px;
     background-color: orange;
@@ -342,6 +341,131 @@
     background-color: palegreen;
 }
 /*/////////////// CONTENT ///////////////////*/
+/*/////////////// CONTENT1 ///////////////////*/
+
+.ContentContainer1 {
+    min-height: 150px;
+    width: 100%;
+    background-color: red;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.Image1 {
+    height: 150px;
+    background-color: aqua;
+}
+
+.ContentInfoContainer1 {
+    height: 100%;
+    min-height: 30px;
+    background-color: magenta;
+}
+
+.ContentHeader1 {
+    text-align: left;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.ContentText1 {
+    text-align: left;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.ContentLink1 {
+    text-align: left;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+
+}
+/*/////////////// CONTENT1 ///////////////////*/
+/*/////////////// CONTENT2 ///////////////////*/
+
+.ContentContainer2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.Image2 {
+    max-width: 400px;
+}
+
+.ContentInfoContainer2 {
+}
+
+.ContentHeader2 {
+    text-align: left;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.ContentText2 {
+    text-align: left;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.ContentLink2 {
+    text-align: left;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+
+}
+/*/////////////// CONTENT2 ///////////////////*/
+/*/////////////// CONTENT3 ///////////////////*/
+
+.ContentContainer3 {
+    border: 2px solid grey;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Image3 {
+    max-height: 300px;
+}
+
+.ContentInfoContainer3 {
+    padding: 10px;
+}
+
+.ContentHeader3 {
+    padding: 2px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.ContentText3 {
+    padding: 2px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.ContentLink3 {
+    padding: 2px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+
+}
+/*/////////////// CONTENT3 ///////////////////*/
 /*/////////////// SUBCONTENT ///////////////////*/
 
 .SubContentContainer {
@@ -429,8 +553,6 @@
 
 .SubContentContainer2 {
     width: 100%;
-    min-height: 60px;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
