@@ -192,7 +192,86 @@ export const Card = () =>
 			</div>
 		</div>
 
+		<Separator text={'\t\tReplace SubHeader\'s placeholders with actual ui\n'}/>
+
+		<div className='SubHeaderContainer'>
+			<div className='Text'></div>
+			<div className='Link'></div>
+		</div>
+
 		<Separator/>
+
+		<div className='SubHeaderContainer1'>
+			<div className='Text1'>
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+				Lorem Ipsum has been the industry'sLorem Ipsum has been the industry's
+			</div>
+			<div className='Link1'>
+				Lorem Ipsum has been the industry'sLorem Ipsum has been the industry's
+			</div>
+		</div>
+
+		<Separator/>
+
+		<div className='SubHeaderContainer2'>
+			<div className='Text2'>
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+				Lorem Ipsum has been the industry'sLorem Ipsum has been the industry's
+			</div>
+			<div className='Link2'>
+				Lorem Ipsum has been the industry'sLorem Ipsum has been the industry's
+			</div>
+		</div>
+
+		<Separator text={'Commit SubHeader'}/>
+
+		<div className='Card'>
+			<div className='Header'>
+				<div className='AccountInfoContainer'>
+					<div className='Icon'></div>
+					<div className='InfoContainer'>
+						<div className='UserName'></div>
+						<div className='AtUserName'></div>
+					</div>
+				</div>
+				<div className='Logo'></div>
+			</div>
+			<div className='SubHeaderContainer2'>
+				<div className='Text2'>
+					Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+					Lorem Ipsum has been the industry'sLorem Ipsum has been the industry's
+				</div>
+				<div className='Link2'>
+					Lorem Ipsum has been the industry'sLorem Ipsum has been the industry's
+				</div>
+			</div>
+			<div className='ContentContainer'>
+				<div className='Image'></div>
+				<div className='ContentInfoContainer'>
+					<div className='ContentHeader'></div>
+					<div className='ContentText'></div>
+					<div className='ContentLink'></div>
+				</div>
+			</div>
+			<div className='SubContentContainer2'>
+				<div className='MetadataContainer2'>
+					<img src={Heart} className='Likes2'/>
+					<div className='Date2'>
+						Lorem Ipsum has been
+					</div>
+				</div>
+				<img src={Info} className='InfoIcon2'/>
+			</div>
+			<div className='Footer2'>
+				<div className='ExtraInfoContainer'>
+					<img src={Comment} className='ExtraInfoIcon' />
+					<div className='ExtraInfoTxt'>
+						Lorem Ipsum is simply dummy text of the
+					</div>
+				</div>
+				<img src={Direction} className='NextBTN2' />
+			</div>
+		</div>
 
 	</>;
 
