@@ -426,7 +426,7 @@
 /*/////////////// CONTENT3 ///////////////////*/
 
 .ContentContainer3 {
-    border: 2px solid grey;
+    border: 1px solid grey;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
@@ -672,6 +672,14 @@
 }
 
 /*/////////////// Elements Positioning ///////////////////*/
+/*/////////////// Card's Final Styling ///////////////////*/
+.FinalStyle {
+    padding: 20px 20px 0 20px;
+    border-radius: 8px;
+    border: 1px solid grey;
+    background-color: unset;
+}
+/*/////////////// Card's Final Styling ///////////////////*/
 
 
 .Separator {
