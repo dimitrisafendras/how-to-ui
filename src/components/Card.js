@@ -1,30 +1,29 @@
 import React from 'react';
 import './Card.css';
+import {Separator} from './Separator';
 
 
 export const Card = () =>
 	<>
-		<div className='Separator'/>
-		Create the card's Skeleton
-		<div className='Separator'/>
+		<Separator text={'\t\tCreate the card\'s Skeleton\n'}/>
 
 		<div className='Card'>
 		</div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Card'>
 			<div className='Header'></div>
 		</div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Card'>
 			<div className='Header'></div>
 			<div className='SubHeaderContainer'></div>
 		</div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Card'>
 			<div className='Header'></div>
@@ -32,7 +31,7 @@ export const Card = () =>
 			<div className='ContentContainer'></div>
 		</div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Card'>
 			<div className='Header'></div>
@@ -41,7 +40,7 @@ export const Card = () =>
 			<div className='SubContentContainer'></div>
 		</div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Card'>
 			<div className='Header'></div>
@@ -51,24 +50,19 @@ export const Card = () =>
 			<div className='Footer'></div>
 		</div>
 
-		<div className='Separator'/>
-		Commit progress on card's skeleton
-		<div className='Separator'/>
-
-		<div className='Separator'/>
-		Create the header's skeleton
-		<div className='Separator'/>
+		<Separator text={'\t\tCommit progress on card\'s skeleton\n'}/>
+		<Separator text={'\t\tCreate the header\'s skeleton\n'} />
 
 		<div className='Header'></div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Header'>
 			<div className='AccountInfoContainer'></div>
 			<div className='Logo'></div>
 		</div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Header'>
 			<div className='AccountInfoContainer'>
@@ -78,7 +72,7 @@ export const Card = () =>
 			<div className='Logo'></div>
 		</div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Header'>
 			<div className='AccountInfoContainer'>
@@ -91,41 +85,31 @@ export const Card = () =>
 			<div className='Logo'></div>
 		</div>
 
-		<div className='Separator'/>
-		Commit progress on header's skeleton
-		<div className='Separator'/>
-
-		<div className='Separator'/>
-		Create subheader's skeleton
-		<div className='Separator'/>
+		<Separator text={'\t\tCommit progress on header\'s skeleton\n'}/>
+		<Separator text={'\t\tCreate subheader\'s skeleton\n'}/>
 
 		<div className='SubHeaderContainer'></div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='SubHeaderContainer'>
 			<div className='Text'></div>
 			<div className='Link'></div>
 		</div>
 
-		<div className='Separator'/>
-		Commit progress on subheader's skeleton
-		<div className='Separator'/>
-
-		<div className='Separator'/>
-		Create content's skeleton
-		<div className='Separator'/>
+		<Separator text={'\t\tCommit progress on subheader\'s skeleton\n'}/>
+		<Separator text={'\t\tCreate content\'s skeleton\n'}/>
 
 		<div className='ContentContainer'></div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='ContentContainer'>
 			<div className='Image'></div>
 			<div className='ContentInfoContainer'></div>
 		</div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='ContentContainer'>
 			<div className='Image'></div>
@@ -136,25 +120,19 @@ export const Card = () =>
 			</div>
 		</div>
 
-		<div className='Separator'/>
-		Commit progress on content's skeleton
-		<div className='Separator'/>
-
-		<div className='Separator'/>
-		Create subcontnet's skeleton
-		<div className='Separator'/>
+		<Separator text={'\t\tCommit progress on content\'s skeleton\n'}/>
+		<Separator text={'\t\tCreate subcontnet\'s skeleton\n'}/>
 
 		<div className='SubContentContainer'></div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='SubContentContainer'>
 			<div className='MetadataContainer'></div>
 			<div className='InfoIcon'></div>
 		</div>
 
-		<div className='Separator'/>
-
+		<Separator/>
 
 		<div className='SubContentContainer'>
 			<div className='MetadataContainer'>
@@ -164,30 +142,20 @@ export const Card = () =>
 			<div className='InfoIcon'></div>
 		</div>
 
-		<div className='Separator'/>
-		Commit progress on subcontent's skeleton
-		<div className='Separator'/>
-
-		<div className='Separator'/>
-		Create footer's skeleton
-		<div className='Separator'/>
+		<Separator text={'\t\tCommit progress on subcontent\'s skeleton\n'}/>
+		<Separator text={'\t\tCreate footer\'s skeleton\n'}/>
 
 		<div className='Footer'></div>
 
-		<div className='Separator'/>
+		<Separator/>
 
 		<div className='Footer'>
 			<div className='ExtraInfo'></div>
 			<div className='NextBTN'></div>
 		</div>
 
-		<div className='Separator'/>
-		Commit progress on footer's skeleton
-		<div className='Separator'/>
-
-		<div className='Separator'/>
-		The resulted skeleton
-		<div className='Separator'/>
+		<Separator text={'\t\tCommit progress on footer\'s skeleton\n'}/>
+		<Separator text={'\t\tThe resulted skeleton\n'}/>
 
 		<div className='Card'>
 			<div className='Header'>
@@ -224,7 +192,6 @@ export const Card = () =>
 				<div className='NextBTN'></div>
 			</div>
 		</div>
-
 	</>;
 
 
