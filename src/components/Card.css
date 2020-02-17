@@ -665,6 +665,13 @@
     width: 24px;
 }
 /*/////////////// FOOTER2 ///////////////////*/
+/*/////////////// Elements Positioning ///////////////////*/
+
+.MarginBottom {
+    margin-bottom: 10px;
+}
+
+/*/////////////// Elements Positioning ///////////////////*/
 
 
 .Separator {
