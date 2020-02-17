@@ -682,12 +682,7 @@
 }
 /*/////////////// Card's Final Styling ///////////////////*/
 /*/////////////// Card's Footer Fix ///////////////////*/
-.CardContainer {
-    height: 100%;
-    min-height: 300px;
-    width: 100%;
-    max-width: 500px;
-}
+.CardContainer {}
 
 .CardFixes {
     border-radius: 8px 8px 0 0;
@@ -699,6 +694,7 @@
     border-style: solid;
     border-color: grey;
     border-radius: 0 0 8px 8px;
+    max-width: 500px;
 }
 /*/////////////// Card's Footer Fix ///////////////////*/
 
