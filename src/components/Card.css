@@ -163,6 +163,85 @@
     background-color: aliceblue;
 }
 /*/////////////// SUBCONTENT ///////////////////*/
+/*/////////////// SUBCONTENT1 ///////////////////*/
+
+
+.SubContentContainer1 {
+    width: 100%;
+    min-height: 60px;
+    background-color: purple;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MetadataContainer1 {
+    min-width: 100px;
+    max-width: 300px;
+    width: 100%;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.Likes1 {
+    height: 40px;
+    width: 40px;
+}
+
+.Date1 {
+    height:30px;
+    width: 120px;
+    background-color: blue;
+    margin-left: 15px;
+}
+
+.InfoIcon1 {
+    height: 24px;
+    width: 24px;
+}
+/*/////////////// SUBCONTENT1 ///////////////////*/
+/*/////////////// SUBCONTENT2 ///////////////////*/
+
+.SubContentContainer2 {
+    width: 100%;
+    min-height: 60px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MetadataContainer2 {
+    min-width: 100px;
+    max-width: 300px;
+    width: 100%;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.Likes2 {
+    height: 40px;
+    width: 40px;
+}
+
+.Date2 {
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 14px;
+    color: grey;
+    margin-left: 15px;
+}
+
+.InfoIcon2 {
+    height: 24px;
+    width: 24px;
+}
+/*/////////////// SUBCONTENT2 ///////////////////*/
 /*/////////////// FOOTER ///////////////////*/
 
 .Footer {
