@@ -5,6 +5,8 @@ import Comment from '../assets/comment.svg';
 import Direction from '../assets/direction.svg';
 import Heart from '../assets/heart.svg';
 import Info from '../assets/info.svg';
+import Logo from '../assets/logo.svg';
+import Twitter from '../assets/twitter.svg';
 
 export const Card = () =>
 	<>
@@ -235,6 +237,124 @@ export const Card = () =>
 					</div>
 				</div>
 				<div className='Logo'></div>
+			</div>
+			<div className='SubHeaderContainer2'>
+				<div className='Text2'>
+					Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+					Lorem Ipsum has been the industry'sLorem Ipsum has been the industry's
+				</div>
+				<div className='Link2'>
+					Lorem Ipsum has been the industry'sLorem Ipsum has been the industry's
+				</div>
+			</div>
+			<div className='ContentContainer'>
+				<div className='Image'></div>
+				<div className='ContentInfoContainer'>
+					<div className='ContentHeader'></div>
+					<div className='ContentText'></div>
+					<div className='ContentLink'></div>
+				</div>
+			</div>
+			<div className='SubContentContainer2'>
+				<div className='MetadataContainer2'>
+					<img src={Heart} className='Likes2'/>
+					<div className='Date2'>
+						Lorem Ipsum has been
+					</div>
+				</div>
+				<img src={Info} className='InfoIcon2'/>
+			</div>
+			<div className='Footer2'>
+				<div className='ExtraInfoContainer'>
+					<img src={Comment} className='ExtraInfoIcon' />
+					<div className='ExtraInfoTxt'>
+						Lorem Ipsum is simply dummy text of the
+					</div>
+				</div>
+				<img src={Direction} className='NextBTN2' />
+			</div>
+		</div>
+
+		<Separator text={'\t\tReplace Header\'s placeholders with actual ui\n'}/>
+
+		<div className='Header'>
+			<div className='AccountInfoContainer'>
+				<div className='Icon'></div>
+				<div className='InfoContainer'>
+					<div className='UserName'></div>
+					<div className='AtUserName'></div>
+				</div>
+			</div>
+			<div className='Logo'></div>
+		</div>
+
+		<Separator/>
+
+		<div className='Header1'>
+			<div className='AccountInfoContainer1'>
+				<div className='Icon1'></div>
+				<div className='InfoContainer1'>
+					<div className='UserName1'>
+						Lorem Ipsum
+					</div>
+					<div className='AtUserName1'>
+						@Lorem Ipsum
+					</div>
+				</div>
+			</div>
+			<div className='Logo1'></div>
+		</div>
+
+		<Separator/>
+
+		<div className='Header2'>
+			<div className='AccountInfoContainer2'>
+				<img src={Logo} className='Icon2'/>
+				<div className='InfoContainer2'>
+					<div className='UserName2'>
+						Lorem Ipsum
+					</div>
+					<div className='AtUserName2'>
+						@Lorem Ipsum
+					</div>
+				</div>
+			</div>
+			<img src={Twitter} className='Logo2' />
+		</div>
+
+		<Separator/>
+
+		<div className='Header3'>
+			<div className='AccountInfoContainer3'>
+				<img src={Logo} className='Icon3'/>
+				<div className='InfoContainer3'>
+					<div className='UserName3'>
+						Lorem Ipsum
+					</div>
+					<div className='AtUserName3'>
+						@Lorem Ipsum
+					</div>
+				</div>
+			</div>
+			<img src={Twitter} className='Logo3' />
+		</div>
+
+		<Separator text={'Commit Header'}/>
+
+		<div className='Card'>
+			<div className='Header3'>
+				<div className='AccountInfoContainer3'>
+					<img src={Logo} className='Icon3'/>
+					<div className='InfoContainer3'>
+						<div className='UserName3'>
+							Lorem Ipsum
+						</div>
+						<div className='AtUserName3'>
+							@Lorem Ipsum
+						</div>
+					</div>
+				</div>
+				<img src={Twitter} className='Logo3' />
 			</div>
 			<div className='SubHeaderContainer2'>
 				<div className='Text2'>
