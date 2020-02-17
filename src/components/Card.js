@@ -59,8 +59,12 @@ export const Card = () =>
 		<Separator/>
 
 		<div className='Footer1'>
-			<img src={Comment} className='ExtraInfo1' />
-			<img src={Direction} className='NextBTN1' />
+			<div className='ExtraInfoContainer'>
+				<img src={Comment} className='ExtraInfoIcon' />
+				<div className='ExtraInfoTxt'>
+					Lorem Ipsum is simply dummy text of the
+				</div>
+			</div>			<img src={Direction} className='NextBTN1' />
 		</div>
 
 		<Separator/>
@@ -133,7 +137,9 @@ export const Card = () =>
 		<div className='SubContentContainer1'>
 			<div className='MetadataContainer1'>
 				<img src={Heart} className='Likes1'/>
-				<div className='Date1'></div>
+				<div className='Date1'>
+					Lorem Ipsum has been
+				</div>
 			</div>
 			<img src={Info} className='InfoIcon1'/>
 		</div>
