@@ -3,16 +3,16 @@ import BG from '../../../../assets/milky-way.jpg';
 import './Content.css'
 
 export const Content = () =>
-	<div className='ContentContainer3 MarginBottom'>
-		<img src={BG} className='Image3'/>
-		<div className='ContentInfoContainer3'>
-			<div className='ContentHeader3'>
+	<div className='ContentContainer MarginBottom'>
+		<img src={BG} className='Image'/>
+		<div className='ContentInfoContainer'>
+			<div className='ContentHeader'>
 				It is a long established a reader will be distracted by the
 			</div>
-			<div className='ContentText3'>
+			<div className='ContentText'>
 				It is  that a reader will be distracted by the
 			</div>
-			<div className='ContentLink3'>
+			<div className='ContentLink'>
 				It is a long estaa reader will be distracted by the
 			</div>
 		</div>

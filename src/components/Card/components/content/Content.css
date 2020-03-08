@@ -1,20 +1,20 @@
-.ContentContainer3 {
+.ContentContainer {
     border: 1px solid grey;
     border-radius: 8px;
     display: flex;
     flex-direction: column;
 }
 
-.Image3 {
+.Image {
     max-height: 300px;
     border-radius: 8px 8px 0 0 ;
 }
 
-.ContentInfoContainer3 {
+.ContentInfoContainer {
     padding: 10px;
 }
 
-.ContentHeader3 {
+.ContentHeader {
     padding: 2px;
     text-align: left;
     font-family: Roboto;
@@ -23,14 +23,14 @@
 
 }
 
-.ContentText3 {
+.ContentText {
     padding: 2px;
     text-align: left;
     font-family: Roboto;
     font-size: 18px;
 }
 
-.ContentLink3 {
+.ContentLink {
     padding: 2px;
     text-align: left;
     font-family: Roboto;

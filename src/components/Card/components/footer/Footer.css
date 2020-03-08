@@ -1,5 +1,5 @@
 
-.Footer2 {
+.Footer {
     width: 100%;
 
     display: flex;
@@ -25,7 +25,7 @@
     color: aqua;
 }
 
-.NextBTN2 {
+.NextBTN {
     height: 24px;
     width: 24px;
 }

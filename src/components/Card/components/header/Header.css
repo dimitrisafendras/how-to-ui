@@ -1,21 +1,21 @@
-.Header3 {
+.Header {
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.AccountInfoContainer3 {
+.AccountInfoContainer {
     display: flex;
 }
 
-.Icon3 {
+.Icon {
     min-height: 60px;
     min-width: 60px;
     margin-right: 15px;
 }
 
-.InfoContainer3 {
+.InfoContainer {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -23,7 +23,7 @@
 
 }
 
-.UserName3 {
+.UserName {
     width: 100%;
 
     font-family: Roboto;
@@ -33,7 +33,7 @@
 
 }
 
-.AtUserName3 {
+.AtUserName {
     width: 100%;
 
     font-family: Roboto;
@@ -41,7 +41,7 @@
     text-align: left;
 }
 
-.Logo3 {
+.Logo {
     height: 24px;
     width: 24px;
 }
