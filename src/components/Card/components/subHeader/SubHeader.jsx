@@ -1,6 +1,4 @@
 import React from 'react';
-import Logo from '../../../../assets/logo.svg';
-import Twitter from '../../../../assets/twitter.svg';
 import './SubHeader.css'
 
 export const SubHeader = () =>

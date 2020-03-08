@@ -1,10 +1,10 @@
 import React from 'react';
-import './Card.css';
 import {Content, Footer, Header, SubContent, SubHeader} from './components';
+import './Card.css';
 
 export const Card = () =>
-	<div className='CardContainer'>
-		<div className='Card FinalStyle CardFixes'>
+	<div className='Card'>
+		<div className='CardInnerContainer'>
 			<Header/>
 			<SubHeader/>
 			<Content/>
