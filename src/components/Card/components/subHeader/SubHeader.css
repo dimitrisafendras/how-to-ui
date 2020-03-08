@@ -1,22 +1,18 @@
-
-.SubHeaderContainer {
+.SubHeader {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-
 }
+
 .Text {
     width: 100%;
     font-family: Roboto;
     font-size: 16px;
     text-align: left;
 }
+
 .Link {
-    width: 100%;
-    font-family: Roboto;
-    font-size: 16px;
-    text-align: left;
     color: blue;
     text-decoration-line: underline;
 }

@@ -1,4 +1,4 @@
-.ContentContainer {
+.Content {
     border: 1px solid grey;
     border-radius: 8px;
     display: flex;
@@ -10,32 +10,23 @@
     border-radius: 8px 8px 0 0 ;
 }
 
-.ContentInfoContainer {
+.ContentInfo {
     padding: 10px;
 }
 
-.ContentHeader {
+.Text {
     padding: 2px;
     text-align: left;
     font-family: Roboto;
     font-size: 18px;
-    font-weight: bold;
-
 }
 
-.ContentText {
-    padding: 2px;
-    text-align: left;
-    font-family: Roboto;
-    font-size: 18px;
+.ContentHeader {
+    font-weight: bold;
 }
 
 .ContentLink {
-    padding: 2px;
-    text-align: left;
-    font-family: Roboto;
     font-size: 14px;
     font-weight: bold;
     color: grey;
-
 }

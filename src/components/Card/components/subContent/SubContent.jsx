@@ -4,8 +4,8 @@ import Info from '../../../../assets/info.svg';
 import './SubContent.css'
 
 export const SubContent = () =>
-	<div className='SubContentContainer MarginBottom'>
-		<div className='MetadataContainer'>
+	<div className='SubContent'>
+		<div className='Metadata'>
 			<img src={Heart} className='Likes'/>
 			<div className='Date'>
 				Lorem Ipsum has been

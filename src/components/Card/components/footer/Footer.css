@@ -1,13 +1,17 @@
 
 .Footer {
-    width: 100%;
+    padding: 10px 20px;
+    border-width: 0 1px 1px 1px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 0 0 8px 8px;
 
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.ExtraInfoContainer {
+.ExtraInfo {
     display: flex;
     align-items: center;
 }
@@ -30,11 +34,3 @@
     width: 24px;
 }
 
-.FooterFixes {
-    padding: 10px 20px;
-    border-width: 0 1px 1px 1px;
-    border-style: solid;
-    border-color: grey;
-    border-radius: 0 0 8px 8px;
-    width: unset;
-}

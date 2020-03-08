@@ -4,10 +4,10 @@ import Twitter from '../../../../assets/twitter.svg';
 import './Header.css'
 
 export const Header = () =>
-	<div className='Header MarginBottom'>
-		<div className='AccountInfoContainer'>
+	<div className='Header'>
+		<div className='AccountInfo'>
 			<img src={Logo} className='Icon'/>
-			<div className='InfoContainer'>
+			<div className='Info'>
 				<div className='UserName'>
 					Lorem Ipsum
 				</div>
