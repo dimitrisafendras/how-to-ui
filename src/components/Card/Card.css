@@ -182,53 +182,7 @@
 /*/////////////// HEADER2 ///////////////////*/
 /*/////////////// HEADER3 ///////////////////*/
 
-.Header3 {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
 
-.AccountInfoContainer3 {
-    display: flex;
-}
-
-.Icon3 {
-    min-height: 60px;
-    min-width: 60px;
-    margin-right: 15px;
-}
-
-.InfoContainer3 {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: flex-start;
-
-}
-
-.UserName3 {
-    width: 100%;
-
-    font-family: Roboto;
-    font-size: 18px;
-    font-weight: bold;
-    text-align: left;
-
-}
-
-.AtUserName3 {
-    width: 100%;
-
-    font-family: Roboto;
-    font-size: 16px;
-    text-align: left;
-}
-
-.Logo3 {
-    height: 24px;
-    width: 24px;
-}
 /*/////////////// HEADER3 ///////////////////*/
 /*/////////////// SUBHEADER ///////////////////*/
 .SubHeaderContainer {
@@ -279,27 +233,6 @@
 /*/////////////// SUBHEADER1 ///////////////////*/
 /*/////////////// SUBHEADER2 ///////////////////*/
 
-.SubHeaderContainer2 {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-
-}
-.Text2 {
-    width: 100%;
-    font-family: Roboto;
-    font-size: 16px;
-    text-align: left;
-}
-.Link2 {
-    width: 100%;
-    font-family: Roboto;
-    font-size: 16px;
-    text-align: left;
-    color: blue;
-    text-decoration-line: underline;
-}
 /*/////////////// SUBHEADER2 ///////////////////*/
 /*/////////////// CONTENT ///////////////////*/
 
@@ -425,47 +358,7 @@
 /*/////////////// CONTENT2 ///////////////////*/
 /*/////////////// CONTENT3 ///////////////////*/
 
-.ContentContainer3 {
-    border: 1px solid grey;
-    border-radius: 8px;
-    display: flex;
-    flex-direction: column;
-}
 
-.Image3 {
-    max-height: 300px;
-    border-radius: 8px 8px 0 0 ;
-}
-
-.ContentInfoContainer3 {
-    padding: 10px;
-}
-
-.ContentHeader3 {
-    padding: 2px;
-    text-align: left;
-    font-family: Roboto;
-    font-size: 18px;
-    font-weight: bold;
-
-}
-
-.ContentText3 {
-    padding: 2px;
-    text-align: left;
-    font-family: Roboto;
-    font-size: 18px;
-}
-
-.ContentLink3 {
-    padding: 2px;
-    text-align: left;
-    font-family: Roboto;
-    font-size: 14px;
-    font-weight: bold;
-    color: grey;
-
-}
 /*/////////////// CONTENT3 ///////////////////*/
 /*/////////////// SUBCONTENT ///////////////////*/
 
@@ -554,40 +447,7 @@
 /*/////////////// SUBCONTENT1 ///////////////////*/
 /*/////////////// SUBCONTENT2 ///////////////////*/
 
-.SubContentContainer2 {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
 
-.MetadataContainer2 {
-    min-width: 100px;
-    max-width: 300px;
-    width: 100%;
-
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-}
-
-.Likes2 {
-    height: 40px;
-    width: 40px;
-}
-
-.Date2 {
-    font-weight: bold;
-    font-family: Roboto;
-    font-size: 14px;
-    color: grey;
-    margin-left: 15px;
-}
-
-.InfoIcon2 {
-    height: 24px;
-    width: 24px;
-}
 /*/////////////// SUBCONTENT2 ///////////////////*/
 /*/////////////// FOOTER ///////////////////*/
 
@@ -637,36 +497,6 @@
 /*/////////////// FOOTER1 ///////////////////*/
 /*/////////////// FOOTER2 ///////////////////*/
 
-.Footer2 {
-    width: 100%;
-
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.ExtraInfoContainer {
-    display: flex;
-    align-items: center;
-}
-
-.ExtraInfoIcon {
-    height: 36px;
-    width: 36px;
-}
-
-.ExtraInfoTxt {
-    margin-left: 10px;
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: bold;
-    color: aqua;
-}
-
-.NextBTN2 {
-    height: 24px;
-    width: 24px;
-}
 /*/////////////// FOOTER2 ///////////////////*/
 /*/////////////// Elements Positioning ///////////////////*/
 
@@ -695,14 +525,6 @@
     width: auto;
 }
 
-.FooterFixes {
-    padding: 10px 20px;
-    border-width: 0 1px 1px 1px;
-    border-style: solid;
-    border-color: grey;
-    border-radius: 0 0 8px 8px;
-    width: unset;
-}
 /*/////////////// Card's Footer Fix ///////////////////*/
 
 

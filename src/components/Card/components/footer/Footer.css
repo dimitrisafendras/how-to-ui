@@ -1,0 +1,40 @@
+
+.Footer2 {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ExtraInfoContainer {
+    display: flex;
+    align-items: center;
+}
+
+.ExtraInfoIcon {
+    height: 36px;
+    width: 36px;
+}
+
+.ExtraInfoTxt {
+    margin-left: 10px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    color: aqua;
+}
+
+.NextBTN2 {
+    height: 24px;
+    width: 24px;
+}
+
+.FooterFixes {
+    padding: 10px 20px;
+    border-width: 0 1px 1px 1px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 0 0 8px 8px;
+    width: unset;
+}

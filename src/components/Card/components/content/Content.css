@@ -1,0 +1,41 @@
+.ContentContainer3 {
+    border: 1px solid grey;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Image3 {
+    max-height: 300px;
+    border-radius: 8px 8px 0 0 ;
+}
+
+.ContentInfoContainer3 {
+    padding: 10px;
+}
+
+.ContentHeader3 {
+    padding: 2px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.ContentText3 {
+    padding: 2px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.ContentLink3 {
+    padding: 2px;
+    text-align: left;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+
+}
